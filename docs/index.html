@@ -235,7 +235,7 @@ function playClick(){
   }catch(e){}
 }
 
-function posterSrc(f){ return f.poster || ""; }
+function posterSrc(f){ return f.poster ? "." + f.poster : ""; }
 function ratingStars(r){
   if(!r) return "";
   const n = Math.round(parseFloat(r)/2);
