@@ -12,7 +12,8 @@
     "poster_local": "/posters/001.jpg",
     "director": "邵艺辉",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/001.webp"
   },
   {
     "day_of_year": 2,
@@ -27,7 +28,8 @@
     "poster_local": "/posters/002.jpg",
     "director": "吕克·雅盖",
     "country": "法国",
-    "year": "2007"
+    "year": "2007",
+    "poster_thumb": "/posters/thumb/002.webp"
   },
   {
     "day_of_year": 3,
@@ -42,7 +44,8 @@
     "poster_local": "/posters/003.jpg",
     "director": "佩德罗·阿莫多瓦",
     "country": "西班牙 / 美国 / 法国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/003.webp"
   },
   {
     "day_of_year": 4,
@@ -57,7 +60,8 @@
     "poster_local": "/posters/004.jpg",
     "director": "克雷格·佐贝尔 / 凯文·布雷 / 海伦·谢弗 / 詹妮弗·盖辛格",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/004.webp"
   },
   {
     "day_of_year": 5,
@@ -72,7 +76,8 @@
     "poster_local": "/posters/005.jpg",
     "director": "满仲劝",
     "country": "日本",
-    "year": "2022"
+    "year": "2022",
+    "poster_thumb": "/posters/thumb/005.webp"
   },
   {
     "day_of_year": 6,
@@ -87,7 +92,8 @@
     "poster_local": "/posters/006.jpg",
     "director": "帕亚尔·卡帕迪亚",
     "country": "法国 / 印度 / 荷兰 / 卢森堡 / 意大利",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/006.webp"
   },
   {
     "day_of_year": 7,
@@ -102,7 +108,8 @@
     "poster_local": "/posters/007.jpg",
     "director": "李沧东",
     "country": "韩国",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/007.webp"
   },
   {
     "day_of_year": 8,
@@ -117,7 +124,8 @@
     "poster_local": "/posters/008.jpg",
     "director": "凯特·凯罗",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/008.webp"
   },
   {
     "day_of_year": 9,
@@ -132,7 +140,8 @@
     "poster_local": "/posters/009.jpg",
     "director": "保罗·格林格拉斯",
     "country": "美国 / 中国大陆 / 西班牙",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/009.webp"
   },
   {
     "day_of_year": 10,
@@ -147,7 +156,8 @@
     "poster_local": "/posters/010.jpg",
     "director": "吕行",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/010.webp"
   },
   {
     "day_of_year": 11,
@@ -162,7 +172,8 @@
     "poster_local": "/posters/011.jpg",
     "director": "李·塔玛霍瑞",
     "country": "英国 / 美国",
-    "year": "2002"
+    "year": "2002",
+    "poster_thumb": "/posters/thumb/011.webp"
   },
   {
     "day_of_year": 12,
@@ -177,7 +188,8 @@
     "poster_local": "/posters/012.jpg",
     "director": "保罗·安文",
     "country": "英国",
-    "year": "2003"
+    "year": "2003",
+    "poster_thumb": "/posters/thumb/012.webp"
   },
   {
     "day_of_year": 13,
@@ -192,7 +204,8 @@
     "poster_local": "/posters/013.jpg",
     "director": "约翰·休斯顿",
     "country": "英国 / 爱尔兰",
-    "year": "1987"
+    "year": "1987",
+    "poster_thumb": "/posters/thumb/013.webp"
   },
   {
     "day_of_year": 14,
@@ -207,7 +220,8 @@
     "poster_local": "/posters/014.jpg",
     "director": "郑保瑞",
     "country": "中国香港 / 中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/014.webp"
   },
   {
     "day_of_year": 15,
@@ -222,7 +236,8 @@
     "poster_local": "/posters/015.jpg",
     "director": "金成勋",
     "country": "韩国",
-    "year": "2019"
+    "year": "2019",
+    "poster_thumb": "/posters/thumb/015.webp"
   },
   {
     "day_of_year": 16,
@@ -237,7 +252,8 @@
     "poster_local": "/posters/016.jpg",
     "director": "乔什·库雷",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/016.webp"
   },
   {
     "day_of_year": 17,
@@ -252,7 +268,8 @@
     "poster_local": "/posters/017.jpg",
     "director": "莱奥·卡拉克斯",
     "country": "法国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/017.webp"
   },
   {
     "day_of_year": 18,
@@ -267,7 +284,8 @@
     "poster_local": "/posters/018.jpg",
     "director": "孔笙 / 孙墨龙 / 刘洪源",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/018.webp"
   },
   {
     "day_of_year": 19,
@@ -282,7 +300,8 @@
     "poster_local": "/posters/019.jpg",
     "director": "奥利弗·帕克",
     "country": "英国 / 瑞典",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/019.webp"
   },
   {
     "day_of_year": 20,
@@ -299,7 +318,8 @@
     "poster_source": "tmdb",
     "director": "大卫·林奇",
     "country": "美国",
-    "year": "1980"
+    "year": "1980",
+    "poster_thumb": "/posters/thumb/020.webp"
   },
   {
     "day_of_year": 21,
@@ -314,7 +334,8 @@
     "poster_local": "/posters/021.jpg",
     "director": "穆罕默德·拉索罗夫",
     "country": "伊朗 / 法国 / 德国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/021.webp"
   },
   {
     "day_of_year": 22,
@@ -329,7 +350,8 @@
     "poster_local": "/posters/022.jpg",
     "director": "罗宾·怀特",
     "country": "美国",
-    "year": "2021"
+    "year": "2021",
+    "poster_thumb": "/posters/thumb/022.webp"
   },
   {
     "day_of_year": 23,
@@ -344,7 +366,8 @@
     "poster_local": "/posters/023.jpg",
     "director": "约瑟夫·科辛斯基",
     "country": "美国",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/023.webp"
   },
   {
     "day_of_year": 24,
@@ -359,7 +382,8 @@
     "poster_local": "/posters/024.jpg",
     "director": "卓亦谦",
     "country": "中国香港",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/024.webp"
   },
   {
     "day_of_year": 25,
@@ -374,7 +398,8 @@
     "poster_local": "/posters/025.jpg",
     "director": "舒奇·塔拉蒂",
     "country": "印度",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/025.webp"
   },
   {
     "day_of_year": 26,
@@ -389,7 +414,8 @@
     "poster_local": "/posters/026.jpg",
     "director": "高志森",
     "country": "中国香港",
-    "year": "1992"
+    "year": "1992",
+    "poster_thumb": "/posters/thumb/026.webp"
   },
   {
     "day_of_year": 27,
@@ -404,7 +430,8 @@
     "poster_local": "/posters/027.jpg",
     "director": "米洛斯·福尔曼",
     "country": "美国 / 法国",
-    "year": "1984"
+    "year": "1984",
+    "poster_thumb": "/posters/thumb/027.webp"
   },
   {
     "day_of_year": 28,
@@ -419,7 +446,8 @@
     "poster_local": "/posters/028.jpg",
     "director": "乔斯·韦登",
     "country": "美国",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/028.webp"
   },
   {
     "day_of_year": 29,
@@ -434,7 +462,8 @@
     "poster_local": "/posters/029.jpg",
     "director": "小津安二郎",
     "country": "日本",
-    "year": "1956"
+    "year": "1956",
+    "poster_thumb": "/posters/thumb/029.webp"
   },
   {
     "day_of_year": 30,
@@ -449,7 +478,8 @@
     "poster_local": "/posters/030.jpg",
     "director": "莫娜·阿查切",
     "country": "法国 / 比利时",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/030.webp"
   },
   {
     "day_of_year": 31,
@@ -464,7 +494,8 @@
     "poster_local": "/posters/031.jpg",
     "director": "米夏埃尔·艾斯",
     "country": "法国",
-    "year": "2022"
+    "year": "2022",
+    "poster_thumb": "/posters/thumb/031.webp"
   },
   {
     "day_of_year": 32,
@@ -479,7 +510,8 @@
     "poster_local": "/posters/032.jpg",
     "director": "波茨·庞西罗利",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/032.webp"
   },
   {
     "day_of_year": 33,
@@ -494,7 +526,8 @@
     "poster_local": "/posters/033.jpg",
     "director": "阿尔韦托·罗德里格斯",
     "country": "西班牙",
-    "year": "2014"
+    "year": "2014",
+    "poster_thumb": "/posters/thumb/033.webp"
   },
   {
     "day_of_year": 34,
@@ -509,7 +542,8 @@
     "poster_local": "/posters/034.jpg",
     "director": "巴西勒·阿德拉 / 拉谢尔·瑟尔 / 尤瓦尔·亚伯拉罕 / 哈姆丹·比拉勒",
     "country": "巴勒斯坦 / 挪威",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/034.webp"
   },
   {
     "day_of_year": 35,
@@ -524,7 +558,8 @@
     "poster_local": "/posters/035.jpg",
     "director": "阿格涅丝卡·霍兰",
     "country": "英国 / 美国",
-    "year": "1993"
+    "year": "1993",
+    "poster_thumb": "/posters/thumb/035.webp"
   },
   {
     "day_of_year": 36,
@@ -539,7 +574,8 @@
     "poster_local": "/posters/036.jpg",
     "director": "洪常秀",
     "country": "韩国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/036.webp"
   },
   {
     "day_of_year": 37,
@@ -554,7 +590,8 @@
     "poster_local": "/posters/037.jpg",
     "director": "爱德华·贝尔格",
     "country": "英国 / 美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/037.webp"
   },
   {
     "day_of_year": 38,
@@ -569,7 +606,8 @@
     "poster_local": "/posters/038.jpg",
     "director": "诺拉·芬沙伊德",
     "country": "英国 / 德国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/038.webp"
   },
   {
     "day_of_year": 39,
@@ -584,7 +622,8 @@
     "poster_local": "/posters/039.jpg",
     "director": "马丁·斯科塞斯",
     "country": "美国",
-    "year": "1976"
+    "year": "1976",
+    "poster_thumb": "/posters/thumb/039.webp"
   },
   {
     "day_of_year": 40,
@@ -599,7 +638,8 @@
     "poster_local": "/posters/040.jpg",
     "director": "满仲劝",
     "country": "日本",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/040.webp"
   },
   {
     "day_of_year": 41,
@@ -614,7 +654,8 @@
     "poster_local": "/posters/041.jpg",
     "director": "陈凯歌",
     "country": "中国大陆",
-    "year": "2002"
+    "year": "2002",
+    "poster_thumb": "/posters/thumb/041.webp"
   },
   {
     "day_of_year": 42,
@@ -629,7 +670,8 @@
     "poster_local": "/posters/042.jpg",
     "director": "王全安",
     "country": "中国大陆",
-    "year": "2006"
+    "year": "2006",
+    "poster_thumb": "/posters/thumb/042.webp"
   },
   {
     "day_of_year": 43,
@@ -644,7 +686,8 @@
     "poster_local": "/posters/043.jpg",
     "director": "克里斯·桑德斯",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/043.webp"
   },
   {
     "day_of_year": 44,
@@ -659,7 +702,8 @@
     "poster_local": "/posters/044.jpg",
     "director": "伍迪·艾伦",
     "country": "美国",
-    "year": "1987"
+    "year": "1987",
+    "poster_thumb": "/posters/thumb/044.webp"
   },
   {
     "day_of_year": 45,
@@ -674,7 +718,8 @@
     "poster_local": "/posters/045.jpg",
     "director": "李漠",
     "country": "中国大陆",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/045.webp"
   },
   {
     "day_of_year": 46,
@@ -689,7 +734,8 @@
     "poster_local": "/posters/046.jpg",
     "director": "陈凯歌",
     "country": "中国大陆",
-    "year": "2002"
+    "year": "2002",
+    "poster_thumb": "/posters/thumb/046.webp"
   },
   {
     "day_of_year": 47,
@@ -704,7 +750,8 @@
     "poster_local": "/posters/047.jpg",
     "director": "范立欣",
     "country": "加拿大 / 中国大陆 / 英国",
-    "year": "2009"
+    "year": "2009",
+    "poster_thumb": "/posters/thumb/047.webp"
   },
   {
     "day_of_year": 48,
@@ -719,7 +766,8 @@
     "poster_local": "/posters/048.jpg",
     "director": "孙海鹏",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/048.webp"
   },
   {
     "day_of_year": 49,
@@ -734,7 +782,8 @@
     "poster_local": "/posters/049.jpg",
     "director": "维克多·列文",
     "country": "美国",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/049.webp"
   },
   {
     "day_of_year": 50,
@@ -749,7 +798,8 @@
     "poster_local": "/posters/050.jpg",
     "director": "让-雅克·阿诺",
     "country": "意大利 / 法国 / 西德",
-    "year": "1986"
+    "year": "1986",
+    "poster_thumb": "/posters/thumb/050.webp"
   },
   {
     "day_of_year": 51,
@@ -764,7 +814,8 @@
     "poster_local": "/posters/051.jpg",
     "director": "本·斯蒂勒 / 塞缪尔·多诺万 / 乌塔·布里泽维茨 / 杰西卡·李·加涅 / 乌塔·布里泽维茨 Uta Briesewitz",
     "country": "美国",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/051.webp"
   },
   {
     "day_of_year": 52,
@@ -779,7 +830,8 @@
     "poster_local": "/posters/052.jpg",
     "director": "押山清高",
     "country": "日本",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/052.webp"
   },
   {
     "day_of_year": 53,
@@ -794,7 +846,8 @@
     "poster_local": "/posters/053.jpg",
     "director": "凯文·麦克唐纳",
     "country": "英国 / 美国",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/053.webp"
   },
   {
     "day_of_year": 54,
@@ -809,7 +862,8 @@
     "poster_local": "/posters/054.jpg",
     "director": "丹尼·博伊尔",
     "country": "英国",
-    "year": "1996"
+    "year": "1996",
+    "poster_thumb": "/posters/thumb/054.webp"
   },
   {
     "day_of_year": 55,
@@ -824,7 +878,8 @@
     "poster_local": "/posters/055.jpg",
     "director": "阿里·艾斯特",
     "country": "美国 / 英国 / 芬兰 / 加拿大",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/055.webp"
   },
   {
     "day_of_year": 56,
@@ -839,7 +894,8 @@
     "poster_local": "/posters/056.jpg",
     "director": "罗伯特·马里亚内蒂 / 罗伯特·斯密戈尔 / 大卫·沃赫滕海姆",
     "country": "澳大利亚 / 美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/056.webp"
   },
   {
     "day_of_year": 57,
@@ -854,7 +910,8 @@
     "poster_local": "/posters/057.jpg",
     "director": "山内重保",
     "country": "日本",
-    "year": "1995"
+    "year": "1995",
+    "poster_thumb": "/posters/thumb/057.webp"
   },
   {
     "day_of_year": 58,
@@ -869,7 +926,8 @@
     "poster_local": "/posters/058.jpg",
     "director": "山田洋次",
     "country": "日本",
-    "year": "2019"
+    "year": "2019",
+    "poster_thumb": "/posters/thumb/058.webp"
   },
   {
     "day_of_year": 59,
@@ -884,7 +942,8 @@
     "poster_local": "/posters/059.jpg",
     "director": "汤姆·麦卡锡",
     "country": "美国",
-    "year": "2003"
+    "year": "2003",
+    "poster_thumb": "/posters/thumb/059.webp"
   },
   {
     "day_of_year": 60,
@@ -899,7 +958,8 @@
     "poster_local": "/posters/060.jpg",
     "director": "迈克尔·贝",
     "country": "美国",
-    "year": "1996"
+    "year": "1996",
+    "poster_thumb": "/posters/thumb/060.webp"
   },
   {
     "day_of_year": 61,
@@ -914,7 +974,8 @@
     "poster_local": "/posters/061.jpg",
     "director": "埃罗尔·莫里斯",
     "country": "美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/061.webp"
   },
   {
     "day_of_year": 62,
@@ -931,7 +992,8 @@
     "poster_source": "tmdb",
     "director": "玛格丽特·杜拉斯",
     "country": "法国",
-    "year": "1975"
+    "year": "1975",
+    "poster_thumb": "/posters/thumb/062.webp"
   },
   {
     "day_of_year": 63,
@@ -946,7 +1008,8 @@
     "poster_local": "/posters/063.jpg",
     "director": "斯蒂文·泽里安",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/063.webp"
   },
   {
     "day_of_year": 64,
@@ -961,7 +1024,8 @@
     "poster_local": "/posters/064.jpg",
     "director": "海琳·吉罗 / 托马斯·绍博",
     "country": "法国 / 中国大陆",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/064.webp"
   },
   {
     "day_of_year": 65,
@@ -976,7 +1040,8 @@
     "poster_local": "/posters/065.jpg",
     "director": "伊萨索·阿拉纳",
     "country": "西班牙",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/065.webp"
   },
   {
     "day_of_year": 66,
@@ -991,7 +1056,8 @@
     "poster_local": "/posters/066.jpg",
     "director": "西娅·夏罗克",
     "country": "英国 / 美国 / 法国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/066.webp"
   },
   {
     "day_of_year": 67,
@@ -1006,7 +1072,8 @@
     "poster_local": "/posters/067.jpg",
     "director": "宝拉·柯特莱西",
     "country": "意大利",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/067.webp"
   },
   {
     "day_of_year": 68,
@@ -1021,7 +1088,8 @@
     "poster_local": "/posters/068.jpg",
     "director": "比尔·帕克斯顿",
     "country": "美国",
-    "year": "2005"
+    "year": "2005",
+    "poster_thumb": "/posters/thumb/068.webp"
   },
   {
     "day_of_year": 69,
@@ -1036,7 +1104,8 @@
     "poster_local": "/posters/069.jpg",
     "director": "理查德·艾尔",
     "country": "英国 / 美国",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/069.webp"
   },
   {
     "day_of_year": 70,
@@ -1051,7 +1120,8 @@
     "poster_local": "/posters/070.jpg",
     "director": "邓肯·琼斯",
     "country": "美国 / 加拿大",
-    "year": "2011"
+    "year": "2011",
+    "poster_thumb": "/posters/thumb/070.webp"
   },
   {
     "day_of_year": 71,
@@ -1066,7 +1136,8 @@
     "poster_local": "/posters/071.jpg",
     "director": "巴斯·德沃斯",
     "country": "比利时",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/071.webp"
   },
   {
     "day_of_year": 72,
@@ -1081,7 +1152,8 @@
     "poster_local": "/posters/072.jpg",
     "director": "克日什托夫·基耶斯洛夫斯基",
     "country": "法国 / 波兰 / 挪威",
-    "year": "1991"
+    "year": "1991",
+    "poster_thumb": "/posters/thumb/072.webp"
   },
   {
     "day_of_year": 73,
@@ -1096,7 +1168,8 @@
     "poster_local": "/posters/073.jpg",
     "director": "马特·布朗",
     "country": "英国",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/073.webp"
   },
   {
     "day_of_year": 74,
@@ -1111,7 +1184,8 @@
     "poster_local": "/posters/074.jpg",
     "director": "吕克·贝松",
     "country": "法国 / 英国 / 美国",
-    "year": "2013"
+    "year": "2013",
+    "poster_thumb": "/posters/thumb/074.webp"
   },
   {
     "day_of_year": 75,
@@ -1126,7 +1200,8 @@
     "poster_local": "/posters/075.jpg",
     "director": "周莉亚 / 韩真",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/075.webp"
   },
   {
     "day_of_year": 76,
@@ -1141,7 +1216,8 @@
     "poster_local": "/posters/076.jpg",
     "director": "彼得·威尔",
     "country": "美国",
-    "year": "2003"
+    "year": "2003",
+    "poster_thumb": "/posters/thumb/076.webp"
   },
   {
     "day_of_year": 77,
@@ -1156,7 +1232,8 @@
     "poster_local": "/posters/077.jpg",
     "director": "杨圆圆",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/077.webp"
   },
   {
     "day_of_year": 78,
@@ -1171,7 +1248,8 @@
     "poster_local": "/posters/078.jpg",
     "director": "Phil Lord / Chris Miller",
     "country": "美国",
-    "year": "2013"
+    "year": "2013",
+    "poster_thumb": "/posters/thumb/078.webp"
   },
   {
     "day_of_year": 79,
@@ -1186,7 +1264,8 @@
     "poster_local": "/posters/079.jpg",
     "director": "张开宙",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/079.webp"
   },
   {
     "day_of_year": 80,
@@ -1201,7 +1280,8 @@
     "poster_local": "/posters/080.jpg",
     "director": "让·科克托",
     "country": "法国",
-    "year": "1932"
+    "year": "1932",
+    "poster_thumb": "/posters/thumb/080.webp"
   },
   {
     "day_of_year": 81,
@@ -1216,7 +1296,8 @@
     "poster_local": "/posters/081.jpg",
     "director": "菲利普·施特尔茨尔 / 卢克·沃森 / Barbara Eder",
     "country": "德国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/081.webp"
   },
   {
     "day_of_year": 82,
@@ -1231,7 +1312,8 @@
     "poster_local": "/posters/082.jpg",
     "director": "维吉妮·维席耶",
     "country": "法国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/082.webp"
   },
   {
     "day_of_year": 83,
@@ -1246,7 +1328,8 @@
     "poster_local": "/posters/083.jpg",
     "director": "雷德利·斯科特",
     "country": "美国 / 英国 / 法国",
-    "year": "1991"
+    "year": "1991",
+    "poster_thumb": "/posters/thumb/083.webp"
   },
   {
     "day_of_year": 84,
@@ -1261,7 +1344,8 @@
     "poster_local": "/posters/084.jpg",
     "director": "雅各布·维尔布鲁根 / 路易斯·莱特里尔 / 瑟琳·赫德 / 罗根·乔治 / 罗克珊·道森 / 阿利克·萨哈罗夫",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/084.webp"
   },
   {
     "day_of_year": 85,
@@ -1276,7 +1360,8 @@
     "poster_local": "/posters/085.jpg",
     "director": "尼克·帕克 / 梅林·科罗兴汉",
     "country": "英国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/085.webp"
   },
   {
     "day_of_year": 86,
@@ -1291,7 +1376,8 @@
     "poster_local": "/posters/086.jpg",
     "director": "昆汀·杜皮约",
     "country": "法国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/086.webp"
   },
   {
     "day_of_year": 87,
@@ -1306,7 +1392,8 @@
     "poster_local": "/posters/087.jpg",
     "director": "玛琳·格里斯",
     "country": "英国 / 美国 / 荷兰",
-    "year": "1997"
+    "year": "1997",
+    "poster_thumb": "/posters/thumb/087.webp"
   },
   {
     "day_of_year": 88,
@@ -1321,7 +1408,8 @@
     "poster_local": "/posters/088.jpg",
     "director": "阿涅斯·瓦尔达",
     "country": "法国",
-    "year": "2019"
+    "year": "2019",
+    "poster_thumb": "/posters/thumb/088.webp"
   },
   {
     "day_of_year": 89,
@@ -1336,7 +1424,8 @@
     "poster_local": "/posters/089.jpg",
     "director": "米洛斯·福尔曼",
     "country": "美国 / 西班牙",
-    "year": "2006"
+    "year": "2006",
+    "poster_thumb": "/posters/thumb/089.webp"
   },
   {
     "day_of_year": 90,
@@ -1351,7 +1440,8 @@
     "poster_local": "/posters/090.jpg",
     "director": "萨姆·米勒",
     "country": "英国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/090.webp"
   },
   {
     "day_of_year": 91,
@@ -1366,7 +1456,8 @@
     "poster_local": "/posters/091.jpg",
     "director": "盖·里奇",
     "country": "英国 / 美国",
-    "year": "2000"
+    "year": "2000",
+    "poster_thumb": "/posters/thumb/091.webp"
   },
   {
     "day_of_year": 92,
@@ -1381,7 +1472,8 @@
     "poster_local": "/posters/092.jpg",
     "director": "彼特·纳斯",
     "country": "美国",
-    "year": "2005"
+    "year": "2005",
+    "poster_thumb": "/posters/thumb/092.webp"
   },
   {
     "day_of_year": 93,
@@ -1396,7 +1488,8 @@
     "poster_local": "/posters/093.jpg",
     "director": "洪常秀",
     "country": "韩国",
-    "year": "2022"
+    "year": "2022",
+    "poster_thumb": "/posters/thumb/093.webp"
   },
   {
     "day_of_year": 94,
@@ -1411,7 +1504,8 @@
     "poster_local": "/posters/094.jpg",
     "director": "伊恩·托尼顿 / 德怀特·H·里特",
     "country": "美国",
-    "year": "2005"
+    "year": "2005",
+    "poster_thumb": "/posters/thumb/094.webp"
   },
   {
     "day_of_year": 95,
@@ -1426,7 +1520,8 @@
     "poster_local": "/posters/095.jpg",
     "director": "陈茂贤",
     "country": "中国香港",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/095.webp"
   },
   {
     "day_of_year": 96,
@@ -1441,7 +1536,8 @@
     "poster_local": "/posters/096.jpg",
     "director": "布莱恩·海尔格兰德",
     "country": "美国",
-    "year": "2013"
+    "year": "2013",
+    "poster_thumb": "/posters/thumb/096.webp"
   },
   {
     "day_of_year": 97,
@@ -1456,7 +1552,8 @@
     "poster_local": "/posters/097.jpg",
     "director": "艾斯彭·山德伯格 / 乔阿吉姆·罗恩尼",
     "country": "美国",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/097.webp"
   },
   {
     "day_of_year": 98,
@@ -1471,7 +1568,8 @@
     "poster_local": "/posters/098.jpg",
     "director": "文晏",
     "country": "中国大陆 / 法国",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/098.webp"
   },
   {
     "day_of_year": 99,
@@ -1486,7 +1584,8 @@
     "poster_local": "/posters/099.jpg",
     "director": "迈克尔·格雷西",
     "country": "美国 / 英国 / 中国大陆 / 法国 / 澳大利亚",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/099.webp"
   },
   {
     "day_of_year": 100,
@@ -1501,7 +1600,8 @@
     "poster_local": "/posters/100.jpg",
     "director": "保罗·金",
     "country": "英国 / 法国",
-    "year": "2014"
+    "year": "2014",
+    "poster_thumb": "/posters/thumb/100.webp"
   },
   {
     "day_of_year": 101,
@@ -1516,7 +1616,8 @@
     "poster_local": "/posters/101.jpg",
     "director": "昆汀·塔伦蒂诺",
     "country": "美国",
-    "year": "2004"
+    "year": "2004",
+    "poster_thumb": "/posters/thumb/101.webp"
   },
   {
     "day_of_year": 102,
@@ -1531,7 +1632,8 @@
     "poster_local": "/posters/102.jpg",
     "director": "托德·道格拉斯·米勒",
     "country": "美国",
-    "year": "2019"
+    "year": "2019",
+    "poster_thumb": "/posters/thumb/102.webp"
   },
   {
     "day_of_year": 103,
@@ -1546,7 +1648,8 @@
     "poster_local": "/posters/103.jpg",
     "director": "阿巴斯·基亚罗斯塔米",
     "country": "法国 / 日本",
-    "year": "2012"
+    "year": "2012",
+    "poster_thumb": "/posters/thumb/103.webp"
   },
   {
     "day_of_year": 104,
@@ -1561,7 +1664,8 @@
     "poster_local": "/posters/104.jpg",
     "director": "细田守",
     "country": "日本",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/104.webp"
   },
   {
     "day_of_year": 105,
@@ -1576,7 +1680,8 @@
     "poster_local": "/posters/105.jpg",
     "director": "丁梓光",
     "country": "中国大陆",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/105.webp"
   },
   {
     "day_of_year": 106,
@@ -1591,7 +1696,8 @@
     "poster_local": "/posters/106.jpg",
     "director": "吉列尔莫·莫拉莱斯",
     "country": "英国",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/106.webp"
   },
   {
     "day_of_year": 107,
@@ -1606,7 +1712,8 @@
     "poster_local": "/posters/107.jpg",
     "director": "陈小雨",
     "country": "中国大陆",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/107.webp"
   },
   {
     "day_of_year": 108,
@@ -1621,7 +1728,8 @@
     "poster_local": "/posters/108.jpg",
     "director": "亚当·艾略特",
     "country": "澳大利亚",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/108.webp"
   },
   {
     "day_of_year": 109,
@@ -1636,7 +1744,8 @@
     "poster_local": "/posters/109.jpg",
     "director": "莫滕·泰杜姆",
     "country": "美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/109.webp"
   },
   {
     "day_of_year": 110,
@@ -1651,7 +1760,8 @@
     "poster_local": "/posters/110.jpg",
     "director": "肯尼·奥特加",
     "country": "美国",
-    "year": "2008"
+    "year": "2008",
+    "poster_thumb": "/posters/thumb/110.webp"
   },
   {
     "day_of_year": 111,
@@ -1666,7 +1776,8 @@
     "poster_local": "/posters/111.jpg",
     "director": "李阳",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/111.webp"
   },
   {
     "day_of_year": 112,
@@ -1681,7 +1792,8 @@
     "poster_local": "/posters/112.jpg",
     "director": "理查德·戴尔 / 彼得·韦柏 / 范立欣",
     "country": "中国大陆 / 英国",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/112.webp"
   },
   {
     "day_of_year": 113,
@@ -1696,7 +1808,8 @@
     "poster_local": "/posters/113.jpg",
     "director": "罗宾·史威考德",
     "country": "美国",
-    "year": "2007"
+    "year": "2007",
+    "poster_thumb": "/posters/thumb/113.webp"
   },
   {
     "day_of_year": 114,
@@ -1711,7 +1824,8 @@
     "poster_local": "/posters/114.jpg",
     "director": "龙飞",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/114.webp"
   },
   {
     "day_of_year": 115,
@@ -1726,7 +1840,8 @@
     "poster_local": "/posters/115.jpg",
     "director": "大卫·舒尔曼",
     "country": "巴西 / 美国 / 西班牙",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/115.webp"
   },
   {
     "day_of_year": 116,
@@ -1741,7 +1856,8 @@
     "poster_local": "/posters/116.jpg",
     "director": "理查德·柯蒂斯",
     "country": "英国 / 德国 / 法国",
-    "year": "2009"
+    "year": "2009",
+    "poster_thumb": "/posters/thumb/116.webp"
   },
   {
     "day_of_year": 117,
@@ -1756,7 +1872,8 @@
     "poster_local": "/posters/117.jpg",
     "director": "布莱特·拉特纳",
     "country": "美国 / 德国",
-    "year": "2002"
+    "year": "2002",
+    "poster_thumb": "/posters/thumb/117.webp"
   },
   {
     "day_of_year": 118,
@@ -1771,7 +1888,8 @@
     "poster_local": "/posters/118.jpg",
     "director": "彼得·博格",
     "country": "美国 / 中国香港",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/118.webp"
   },
   {
     "day_of_year": 119,
@@ -1786,7 +1904,8 @@
     "poster_local": "/posters/119.jpg",
     "director": "伊西亚尔·博利亚因",
     "country": "西班牙 / 古巴 / 英国 / 德国",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/119.webp"
   },
   {
     "day_of_year": 120,
@@ -1801,7 +1920,8 @@
     "poster_local": "/posters/120.jpg",
     "director": "克林特·伊斯特伍德",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/120.webp"
   },
   {
     "day_of_year": 121,
@@ -1816,7 +1936,8 @@
     "poster_local": "/posters/121.jpg",
     "director": "王家卫",
     "country": "中国香港",
-    "year": "1994"
+    "year": "1994",
+    "poster_thumb": "/posters/thumb/121.webp"
   },
   {
     "day_of_year": 122,
@@ -1831,7 +1952,8 @@
     "poster_local": "/posters/122.jpg",
     "director": "罗德里戈·莫雷诺",
     "country": "阿根廷 / 巴西 / 卢森堡 / 智利",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/122.webp"
   },
   {
     "day_of_year": 123,
@@ -1846,7 +1968,8 @@
     "poster_local": "/posters/123.jpg",
     "director": "莱恩·约翰逊",
     "country": "美国",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/123.webp"
   },
   {
     "day_of_year": 124,
@@ -1861,7 +1984,8 @@
     "poster_local": "/posters/124.jpg",
     "director": "杨荔钠",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/124.webp"
   },
   {
     "day_of_year": 125,
@@ -1876,7 +2000,8 @@
     "poster_local": "/posters/125.jpg",
     "director": "马丁·波渥斯",
     "country": "法国 / 比利时",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/125.webp"
   },
   {
     "day_of_year": 126,
@@ -1891,7 +2016,8 @@
     "poster_local": "/posters/126.jpg",
     "director": "林诣彬",
     "country": "美国",
-    "year": "2011"
+    "year": "2011",
+    "poster_thumb": "/posters/thumb/126.webp"
   },
   {
     "day_of_year": 127,
@@ -1906,7 +2032,8 @@
     "poster_local": "/posters/127.jpg",
     "director": "马提欧·加洛尼",
     "country": "意大利 / 法国 / 英国",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/127.webp"
   },
   {
     "day_of_year": 128,
@@ -1921,7 +2048,8 @@
     "poster_local": "/posters/128.jpg",
     "director": "尼克·布鲁诺 / 特洛伊·奎安",
     "country": "美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/128.webp"
   },
   {
     "day_of_year": 129,
@@ -1936,7 +2064,8 @@
     "poster_local": "/posters/129.jpg",
     "director": "本杰明·雷内 / 盖洛·霍姆西",
     "country": "美国 / 法国 / 加拿大",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/129.webp"
   },
   {
     "day_of_year": 130,
@@ -1951,7 +2080,8 @@
     "poster_local": "/posters/130.jpg",
     "director": "山田洋次",
     "country": "日本",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/130.webp"
   },
   {
     "day_of_year": 131,
@@ -1966,7 +2096,8 @@
     "poster_local": "/posters/131.jpg",
     "director": "伍迪·艾伦",
     "country": "美国",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/131.webp"
   },
   {
     "day_of_year": 132,
@@ -1981,7 +2112,8 @@
     "poster_local": "/posters/132.jpg",
     "director": "John Kent Harrison",
     "country": "美国",
-    "year": "2009"
+    "year": "2009",
+    "poster_thumb": "/posters/thumb/132.webp"
   },
   {
     "day_of_year": 133,
@@ -1996,7 +2128,8 @@
     "poster_local": "/posters/133.jpg",
     "director": "延尚昊",
     "country": "韩国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/133.webp"
   },
   {
     "day_of_year": 134,
@@ -2011,7 +2144,8 @@
     "poster_local": "/posters/134.jpg",
     "director": "拉斯·克劳梅",
     "country": "德国",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/134.webp"
   },
   {
     "day_of_year": 135,
@@ -2026,7 +2160,8 @@
     "poster_local": "/posters/135.jpg",
     "director": "卡尔·弗兰克林",
     "country": "美国",
-    "year": "1998"
+    "year": "1998",
+    "poster_thumb": "/posters/thumb/135.webp"
   },
   {
     "day_of_year": 136,
@@ -2041,7 +2176,8 @@
     "poster_local": "/posters/136.jpg",
     "director": "托尼·斯科特",
     "country": "美国",
-    "year": "1986"
+    "year": "1986",
+    "poster_thumb": "/posters/thumb/136.webp"
   },
   {
     "day_of_year": 137,
@@ -2056,7 +2192,8 @@
     "poster_local": "/posters/137.jpg",
     "director": "王全安",
     "country": "中国大陆",
-    "year": "2009"
+    "year": "2009",
+    "poster_thumb": "/posters/thumb/137.webp"
   },
   {
     "day_of_year": 138,
@@ -2071,7 +2208,8 @@
     "poster_local": "/posters/138.jpg",
     "director": "杰姆·科恩",
     "country": "奧地利 / 美国",
-    "year": "2012"
+    "year": "2012",
+    "poster_thumb": "/posters/thumb/138.webp"
   },
   {
     "day_of_year": 139,
@@ -2086,7 +2224,8 @@
     "poster_local": "/posters/139.jpg",
     "director": "罗兰·艾默里奇",
     "country": "美国",
-    "year": "2013"
+    "year": "2013",
+    "poster_thumb": "/posters/thumb/139.webp"
   },
   {
     "day_of_year": 140,
@@ -2101,7 +2240,8 @@
     "poster_local": "/posters/140.jpg",
     "director": "山姆·雷米",
     "country": "美国",
-    "year": "1981"
+    "year": "1981",
+    "poster_thumb": "/posters/thumb/140.webp"
   },
   {
     "day_of_year": 141,
@@ -2116,7 +2256,8 @@
     "poster_local": "/posters/141.jpg",
     "director": "佛朗哥·泽菲雷里 Franco Zeffirelli",
     "country": "意大利 / 英国",
-    "year": "1999"
+    "year": "1999",
+    "poster_thumb": "/posters/thumb/141.webp"
   },
   {
     "day_of_year": 142,
@@ -2131,7 +2272,8 @@
     "poster_local": "/posters/142.jpg",
     "director": "布莱恩·德·帕尔玛",
     "country": "美国",
-    "year": "1996"
+    "year": "1996",
+    "poster_thumb": "/posters/thumb/142.webp"
   },
   {
     "day_of_year": 143,
@@ -2146,7 +2288,8 @@
     "poster_local": "/posters/143.jpg",
     "director": "英格玛·伯格曼",
     "country": "瑞典",
-    "year": "1961"
+    "year": "1961",
+    "poster_thumb": "/posters/thumb/143.webp"
   },
   {
     "day_of_year": 144,
@@ -2161,7 +2304,8 @@
     "poster_local": "/posters/144.jpg",
     "director": "克洛德·巴拉斯",
     "country": "瑞士 / 法国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/144.webp"
   },
   {
     "day_of_year": 145,
@@ -2176,7 +2320,8 @@
     "poster_local": "/posters/145.jpg",
     "director": "费德·阿尔瓦雷兹",
     "country": "美国 / 英国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/145.webp"
   },
   {
     "day_of_year": 146,
@@ -2191,7 +2336,8 @@
     "poster_local": "/posters/146.jpg",
     "director": "罗曼·波兰斯基",
     "country": "法国",
-    "year": "1976"
+    "year": "1976",
+    "poster_thumb": "/posters/thumb/146.webp"
   },
   {
     "day_of_year": 147,
@@ -2206,7 +2352,8 @@
     "poster_local": "/posters/147.jpg",
     "director": "中岛哲也",
     "country": "日本",
-    "year": "2006"
+    "year": "2006",
+    "poster_thumb": "/posters/thumb/147.webp"
   },
   {
     "day_of_year": 148,
@@ -2221,7 +2368,8 @@
     "poster_local": "/posters/148.jpg",
     "director": "路易斯·莱特里尔",
     "country": "英国 / 美国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/148.webp"
   },
   {
     "day_of_year": 149,
@@ -2236,7 +2384,8 @@
     "poster_local": "/posters/149.jpg",
     "director": "迈克·内威尔",
     "country": "美国",
-    "year": "2010"
+    "year": "2010",
+    "poster_thumb": "/posters/thumb/149.webp"
   },
   {
     "day_of_year": 150,
@@ -2251,7 +2400,8 @@
     "poster_local": "/posters/150.jpg",
     "director": "杰里米·佩林",
     "country": "法国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/150.webp"
   },
   {
     "day_of_year": 151,
@@ -2266,7 +2416,8 @@
     "poster_local": "/posters/151.jpg",
     "director": "贾森·雷特曼",
     "country": "美国",
-    "year": "2005"
+    "year": "2005",
+    "poster_thumb": "/posters/thumb/151.webp"
   },
   {
     "day_of_year": 152,
@@ -2281,7 +2432,8 @@
     "poster_local": "/posters/152.jpg",
     "director": "王子川",
     "country": "中国大陆 / 中国香港",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/152.webp"
   },
   {
     "day_of_year": 153,
@@ -2296,7 +2448,8 @@
     "poster_local": "/posters/153.jpg",
     "director": "尼娜·帕尔马多蒂尔",
     "country": "冰岛 / 斯洛伐克",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/153.webp"
   },
   {
     "day_of_year": 154,
@@ -2311,7 +2464,8 @@
     "poster_local": "/posters/154.jpg",
     "director": "彼得·叶茨",
     "country": "美国",
-    "year": "1979"
+    "year": "1979",
+    "poster_thumb": "/posters/thumb/154.webp"
   },
   {
     "day_of_year": 155,
@@ -2326,7 +2480,8 @@
     "poster_local": "/posters/155.jpg",
     "director": "内森·格雷诺 / 拜伦·霍华德",
     "country": "美国",
-    "year": "2010"
+    "year": "2010",
+    "poster_thumb": "/posters/thumb/155.webp"
   },
   {
     "day_of_year": 156,
@@ -2341,7 +2496,8 @@
     "poster_local": "/posters/156.jpg",
     "director": "Nick Stringer",
     "country": "英国 / 奥地利 / 德国",
-    "year": "2009"
+    "year": "2009",
+    "poster_thumb": "/posters/thumb/156.webp"
   },
   {
     "day_of_year": 157,
@@ -2356,7 +2512,8 @@
     "poster_local": "/posters/157.jpg",
     "director": "布鲁斯·A·埃文斯",
     "country": "美国",
-    "year": "2007"
+    "year": "2007",
+    "poster_thumb": "/posters/thumb/157.webp"
   },
   {
     "day_of_year": 158,
@@ -2371,7 +2528,8 @@
     "poster_local": "/posters/158.jpg",
     "director": "闫非 / 彭大魔",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/158.webp"
   },
   {
     "day_of_year": 159,
@@ -2386,7 +2544,8 @@
     "poster_local": "/posters/159.jpg",
     "director": "莎拉·斯皮兰",
     "country": "澳大利亚 / 美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/159.webp"
   },
   {
     "day_of_year": 160,
@@ -2401,7 +2560,8 @@
     "poster_local": "/posters/160.jpg",
     "director": "娜塔莉·波特曼",
     "country": "以色列",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/160.webp"
   },
   {
     "day_of_year": 161,
@@ -2416,7 +2576,8 @@
     "poster_local": "/posters/161.jpg",
     "director": "尼蒂兰·萨米纳坦",
     "country": "印度",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/161.webp"
   },
   {
     "day_of_year": 162,
@@ -2431,7 +2592,8 @@
     "poster_local": "/posters/162.jpg",
     "director": "菲利普·诺伊斯",
     "country": "美国 / 加拿大",
-    "year": "1999"
+    "year": "1999",
+    "poster_thumb": "/posters/thumb/162.webp"
   },
   {
     "day_of_year": 163,
@@ -2446,7 +2608,8 @@
     "poster_local": "/posters/163.jpg",
     "director": "安德斯·麦特森 / 索布约恩·克里斯托弗森",
     "country": "丹麦",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/163.webp"
   },
   {
     "day_of_year": 164,
@@ -2461,7 +2624,8 @@
     "poster_local": "/posters/164.jpg",
     "director": "阿丽·潘基乌 / 托比·海恩斯 / 王昊鹭 / 大卫·斯雷德 / 克里斯托弗·巴雷特 / 卢克·泰勒",
     "country": "美国",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/164.webp"
   },
   {
     "day_of_year": 165,
@@ -2476,7 +2640,8 @@
     "poster_local": "/posters/165.jpg",
     "director": "西尔维斯特·史泰龙",
     "country": "美国 / 德国",
-    "year": "2008"
+    "year": "2008",
+    "poster_thumb": "/posters/thumb/165.webp"
   },
   {
     "day_of_year": 166,
@@ -2491,7 +2656,8 @@
     "poster_local": "/posters/166.jpg",
     "director": "荒川格",
     "country": "日本",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/166.webp"
   },
   {
     "day_of_year": 167,
@@ -2506,7 +2672,8 @@
     "poster_local": "/posters/167.jpg",
     "director": "渡边信一郎",
     "country": "日本 / 美国",
-    "year": "2001"
+    "year": "2001",
+    "poster_thumb": "/posters/thumb/167.webp"
   },
   {
     "day_of_year": 168,
@@ -2521,7 +2688,8 @@
     "poster_local": "/posters/168.jpg",
     "director": "约翰·卡兰",
     "country": "澳大利亚",
-    "year": "2013"
+    "year": "2013",
+    "poster_thumb": "/posters/thumb/168.webp"
   },
   {
     "day_of_year": 169,
@@ -2536,7 +2704,8 @@
     "poster_local": "/posters/169.jpg",
     "director": "艾伦·J·帕库拉",
     "country": "美国",
-    "year": "1976"
+    "year": "1976",
+    "poster_thumb": "/posters/thumb/169.webp"
   },
   {
     "day_of_year": 170,
@@ -2551,7 +2720,8 @@
     "poster_local": "/posters/170.jpg",
     "director": "陈凯歌",
     "country": "中国香港 / 中国大陆",
-    "year": "1996"
+    "year": "1996",
+    "poster_thumb": "/posters/thumb/170.webp"
   },
   {
     "day_of_year": 171,
@@ -2566,7 +2736,8 @@
     "poster_local": "/posters/171.jpg",
     "director": "阿格涅丝卡·霍兰",
     "country": "波兰 / 德国 / 法国 / 比利时",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/171.webp"
   },
   {
     "day_of_year": 172,
@@ -2581,7 +2752,8 @@
     "poster_local": "/posters/172.jpg",
     "director": "安德鲁·斯坦顿 / 李·昂克里奇",
     "country": "美国 / 澳大利亚",
-    "year": "2003"
+    "year": "2003",
+    "poster_thumb": "/posters/thumb/172.webp"
   },
   {
     "day_of_year": 173,
@@ -2596,7 +2768,8 @@
     "poster_local": "/posters/173.jpg",
     "director": "比利·怀尔德",
     "country": "美国",
-    "year": "1959"
+    "year": "1959",
+    "poster_thumb": "/posters/thumb/173.webp"
   },
   {
     "day_of_year": 174,
@@ -2611,7 +2784,8 @@
     "poster_local": "/posters/174.jpg",
     "director": "肖恩·麦克纳马拉",
     "country": "美国",
-    "year": "2011"
+    "year": "2011",
+    "poster_thumb": "/posters/thumb/174.webp"
   },
   {
     "day_of_year": 175,
@@ -2626,7 +2800,8 @@
     "poster_local": "/posters/175.jpg",
     "director": "迪恩·弗雷斯彻-坎普",
     "country": "美国",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/175.webp"
   },
   {
     "day_of_year": 176,
@@ -2641,7 +2816,8 @@
     "poster_local": "/posters/176.jpg",
     "director": "布鲁斯·贝尔斯福德",
     "country": "美国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/176.webp"
   },
   {
     "day_of_year": 177,
@@ -2656,7 +2832,8 @@
     "poster_local": "/posters/177.jpg",
     "director": "彼得·博格",
     "country": "美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/177.webp"
   },
   {
     "day_of_year": 178,
@@ -2671,7 +2848,8 @@
     "poster_local": "/posters/178.jpg",
     "director": "金湲锡",
     "country": "韩国",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/178.webp"
   },
   {
     "day_of_year": 179,
@@ -2686,7 +2864,8 @@
     "poster_local": "/posters/179.jpg",
     "director": "查理·考夫曼",
     "country": "美国",
-    "year": "2020"
+    "year": "2020",
+    "poster_thumb": "/posters/thumb/179.webp"
   },
   {
     "day_of_year": 180,
@@ -2701,7 +2880,8 @@
     "poster_local": "/posters/180.jpg",
     "director": "亚历克斯·加西亚·洛佩斯 / 劳拉·莫拉·奥尔特加",
     "country": "哥伦比亚",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/180.webp"
   },
   {
     "day_of_year": 181,
@@ -2716,7 +2896,8 @@
     "poster_local": "/posters/181.jpg",
     "director": "大卫·弗兰科尔",
     "country": "美国 / 法国",
-    "year": "2006"
+    "year": "2006",
+    "poster_thumb": "/posters/thumb/181.webp"
   },
   {
     "day_of_year": 182,
@@ -2731,7 +2912,8 @@
     "poster_local": "/posters/182.jpg",
     "director": "费振翔",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/182.webp"
   },
   {
     "day_of_year": 183,
@@ -2746,7 +2928,8 @@
     "poster_local": "/posters/183.jpg",
     "director": "山崎贵",
     "country": "日本",
-    "year": "2019"
+    "year": "2019",
+    "poster_thumb": "/posters/thumb/183.webp"
   },
   {
     "day_of_year": 184,
@@ -2761,7 +2944,8 @@
     "poster_local": "/posters/184.jpg",
     "director": "茹斯汀·特里耶",
     "country": "法国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/184.webp"
   },
   {
     "day_of_year": 185,
@@ -2776,7 +2960,8 @@
     "poster_local": "/posters/185.jpg",
     "director": "莱丝莉·琳卡·格拉特 / 克拉克·约翰森",
     "country": "美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/185.webp"
   },
   {
     "day_of_year": 186,
@@ -2791,7 +2976,8 @@
     "poster_local": "/posters/186.jpg",
     "director": "瑞恩·库格勒",
     "country": "美国 / 澳大利亚 / 加拿大",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/186.webp"
   },
   {
     "day_of_year": 187,
@@ -2806,7 +2992,8 @@
     "poster_local": "/posters/187.jpg",
     "director": "苏珊娜·福格尔 / 托尼·佩兰 / 莱斯利·霍普",
     "country": "美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/187.webp"
   },
   {
     "day_of_year": 188,
@@ -2821,7 +3008,8 @@
     "poster_local": "/posters/188.jpg",
     "director": "拉斯·霍尔斯道姆",
     "country": "英国 / 美国",
-    "year": "2000"
+    "year": "2000",
+    "poster_thumb": "/posters/thumb/188.webp"
   },
   {
     "day_of_year": 189,
@@ -2836,7 +3024,8 @@
     "poster_local": "/posters/189.jpg",
     "director": "马丁·麦克唐纳",
     "country": "英国 / 美国",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/189.webp"
   },
   {
     "day_of_year": 190,
@@ -2851,7 +3040,8 @@
     "poster_local": "/posters/190.jpg",
     "director": "罗伯特·泽米吉斯",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/190.webp"
   },
   {
     "day_of_year": 191,
@@ -2866,7 +3056,8 @@
     "poster_local": "/posters/191.jpg",
     "director": "三宅唱",
     "country": "日本",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/191.webp"
   },
   {
     "day_of_year": 192,
@@ -2881,7 +3072,8 @@
     "poster_local": "/posters/192.jpg",
     "director": "阿姆·贾马尔",
     "country": "也门 / 苏丹 / 沙特阿拉伯",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/192.webp"
   },
   {
     "day_of_year": 193,
@@ -2896,7 +3088,8 @@
     "poster_local": "/posters/193.jpg",
     "director": "乔治·米勒",
     "country": "澳大利亚 / 美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/193.webp"
   },
   {
     "day_of_year": 194,
@@ -2911,7 +3104,8 @@
     "poster_local": "/posters/194.jpg",
     "director": "卡莉·斯考格兰德",
     "country": "美国",
-    "year": "2021"
+    "year": "2021",
+    "poster_thumb": "/posters/thumb/194.webp"
   },
   {
     "day_of_year": 195,
@@ -2926,7 +3120,8 @@
     "poster_local": "/posters/195.jpg",
     "director": "吴贤钟",
     "country": "韩国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/195.webp"
   },
   {
     "day_of_year": 196,
@@ -2941,7 +3136,8 @@
     "poster_local": "/posters/196.jpg",
     "director": "彼得·格林纳威",
     "country": "英国 / 波兰 / 加拿大 / 荷兰",
-    "year": "2007"
+    "year": "2007",
+    "poster_thumb": "/posters/thumb/196.webp"
   },
   {
     "day_of_year": 197,
@@ -2956,7 +3152,8 @@
     "poster_local": "/posters/197.jpg",
     "director": "阿伦·雷乃",
     "country": "法国 / 日本",
-    "year": "1959"
+    "year": "1959",
+    "poster_thumb": "/posters/thumb/197.webp"
   },
   {
     "day_of_year": 198,
@@ -2971,7 +3168,8 @@
     "poster_local": "/posters/198.jpg",
     "director": "弗兰克·德拉邦特",
     "country": "美国",
-    "year": "2007"
+    "year": "2007",
+    "poster_thumb": "/posters/thumb/198.webp"
   },
   {
     "day_of_year": 199,
@@ -2986,7 +3184,8 @@
     "poster_local": "/posters/199.jpg",
     "director": "米拉·奈尔",
     "country": "美国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/199.webp"
   },
   {
     "day_of_year": 200,
@@ -3001,7 +3200,8 @@
     "poster_local": "/posters/200.jpg",
     "director": "道格拉斯·麦金农",
     "country": "英国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/200.webp"
   },
   {
     "day_of_year": 201,
@@ -3016,7 +3216,8 @@
     "poster_local": "/posters/201.jpg",
     "director": "亚当·德尔·迪欧 / 詹姆斯·D·斯特恩",
     "country": "美国",
-    "year": "2004"
+    "year": "2004",
+    "poster_thumb": "/posters/thumb/201.webp"
   },
   {
     "day_of_year": 202,
@@ -3031,7 +3232,8 @@
     "poster_local": "/posters/202.jpg",
     "director": "哈利·布拉德比尔 / 蒂姆·柯比",
     "country": "英国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/202.webp"
   },
   {
     "day_of_year": 203,
@@ -3046,7 +3248,8 @@
     "poster_local": "/posters/203.jpg",
     "director": "亚历杭德拉·马尔克斯·阿贝拉",
     "country": "美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/203.webp"
   },
   {
     "day_of_year": 204,
@@ -3061,7 +3264,8 @@
     "poster_local": "/posters/204.jpg",
     "director": "张作骥",
     "country": "中国台湾",
-    "year": "2013"
+    "year": "2013",
+    "poster_thumb": "/posters/thumb/204.webp"
   },
   {
     "day_of_year": 205,
@@ -3076,7 +3280,8 @@
     "poster_local": "/posters/205.jpg",
     "director": "胡波",
     "country": "中国大陆",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/205.webp"
   },
   {
     "day_of_year": 206,
@@ -3091,7 +3296,8 @@
     "poster_local": "/posters/206.jpg",
     "director": "伊尔蒂科·茵叶蒂",
     "country": "匈牙利",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/206.webp"
   },
   {
     "day_of_year": 207,
@@ -3106,7 +3312,8 @@
     "poster_local": "/posters/207.jpg",
     "director": "饺子",
     "country": "中国大陆",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/207.webp"
   },
   {
     "day_of_year": 208,
@@ -3121,7 +3328,8 @@
     "poster_local": "/posters/208.jpg",
     "director": "奉俊昊",
     "country": "韩国",
-    "year": "2006"
+    "year": "2006",
+    "poster_thumb": "/posters/thumb/208.webp"
   },
   {
     "day_of_year": 209,
@@ -3136,7 +3344,8 @@
     "poster_local": "/posters/209.jpg",
     "director": "亚当·拉维奇 / Sarah Robertson",
     "country": "美国",
-    "year": "2007"
+    "year": "2007",
+    "poster_thumb": "/posters/thumb/209.webp"
   },
   {
     "day_of_year": 210,
@@ -3151,7 +3360,8 @@
     "poster_local": "/posters/210.jpg",
     "director": "马克·林菲尔德 / 贾斯汀·艾伦 / Alistair Tones / 瓦内萨·贝洛维茨 / Rob Sullivan",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/210.webp"
   },
   {
     "day_of_year": 211,
@@ -3166,7 +3376,8 @@
     "poster_local": "/posters/211.jpg",
     "director": "亚历杭德罗·戈麦斯·蒙特维尔德",
     "country": "美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/211.webp"
   },
   {
     "day_of_year": 212,
@@ -3181,7 +3392,8 @@
     "poster_local": "/posters/212.jpg",
     "director": "迈克·内威尔",
     "country": "英国 / 美国",
-    "year": "2005"
+    "year": "2005",
+    "poster_thumb": "/posters/thumb/212.webp"
   },
   {
     "day_of_year": 213,
@@ -3196,7 +3408,8 @@
     "poster_local": "/posters/213.jpg",
     "director": "徐克",
     "country": "中国大陆 / 中国香港",
-    "year": "2022"
+    "year": "2022",
+    "poster_thumb": "/posters/thumb/213.webp"
   },
   {
     "day_of_year": 214,
@@ -3211,7 +3424,8 @@
     "poster_local": "/posters/214.jpg",
     "director": "吴宇森",
     "country": "中国香港",
-    "year": "1986"
+    "year": "1986",
+    "poster_thumb": "/posters/thumb/214.webp"
   },
   {
     "day_of_year": 215,
@@ -3226,7 +3440,8 @@
     "poster_local": "/posters/215.jpg",
     "director": "凯瑞·福永 / 安娜·波顿 / 瑞安·弗雷克 / 迪·里斯 / 蒂莫西·范·帕腾",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/215.webp"
   },
   {
     "day_of_year": 216,
@@ -3241,7 +3456,8 @@
     "poster_local": "/posters/216.jpg",
     "director": "史蒂文·斯皮尔伯格",
     "country": "美国",
-    "year": "2008"
+    "year": "2008",
+    "poster_thumb": "/posters/thumb/216.webp"
   },
   {
     "day_of_year": 217,
@@ -3256,7 +3472,8 @@
     "poster_local": "/posters/217.jpg",
     "director": "泽维尔·吉恩斯",
     "country": "法国 / 美国",
-    "year": "2007"
+    "year": "2007",
+    "poster_thumb": "/posters/thumb/217.webp"
   },
   {
     "day_of_year": 218,
@@ -3271,7 +3488,8 @@
     "poster_local": "/posters/218.jpg",
     "director": "乔阿吉姆·罗恩尼",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/218.webp"
   },
   {
     "day_of_year": 219,
@@ -3286,7 +3504,8 @@
     "poster_local": "/posters/219.jpg",
     "director": "弗朗索瓦·欧容",
     "country": "法国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/219.webp"
   },
   {
     "day_of_year": 220,
@@ -3301,7 +3520,8 @@
     "poster_local": "/posters/220.jpg",
     "director": "金兹·兹巴洛迪斯",
     "country": "拉脱维亚 / 法国 / 比利时",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/220.webp"
   },
   {
     "day_of_year": 221,
@@ -3316,7 +3536,8 @@
     "poster_local": "/posters/221.jpg",
     "director": "沃尔特·塞勒斯",
     "country": "巴西 / 法国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/221.webp"
   },
   {
     "day_of_year": 222,
@@ -3331,7 +3552,8 @@
     "poster_local": "/posters/222.jpg",
     "director": "山中瑶子",
     "country": "日本",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/222.webp"
   },
   {
     "day_of_year": 223,
@@ -3346,7 +3568,8 @@
     "poster_local": "/posters/223.jpg",
     "director": "徐浩峰",
     "country": "中国大陆",
-    "year": "2012"
+    "year": "2012",
+    "poster_thumb": "/posters/thumb/223.webp"
   },
   {
     "day_of_year": 224,
@@ -3361,7 +3584,8 @@
     "poster_local": "/posters/224.jpg",
     "director": "滨口龙介",
     "country": "日本",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/224.webp"
   },
   {
     "day_of_year": 225,
@@ -3376,7 +3600,8 @@
     "poster_local": "/posters/225.jpg",
     "director": "朱塞佩·托纳多雷",
     "country": "意大利",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/225.webp"
   },
   {
     "day_of_year": 226,
@@ -3391,7 +3616,8 @@
     "poster_local": "/posters/226.jpg",
     "director": "大卫·柯南伯格",
     "country": "美国 / 德国",
-    "year": "1986"
+    "year": "1986",
+    "poster_thumb": "/posters/thumb/226.webp"
   },
   {
     "day_of_year": 227,
@@ -3406,7 +3632,8 @@
     "poster_local": "/posters/227.jpg",
     "director": "尚皮耶·亚莫斯",
     "country": "法国",
-    "year": "2006"
+    "year": "2006",
+    "poster_thumb": "/posters/thumb/227.webp"
   },
   {
     "day_of_year": 228,
@@ -3421,7 +3648,8 @@
     "poster_local": "/posters/228.jpg",
     "director": "是枝裕和",
     "country": "日本",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/228.webp"
   },
   {
     "day_of_year": 229,
@@ -3436,7 +3664,8 @@
     "poster_local": "/posters/229.jpg",
     "director": "安妮·芳婷",
     "country": "法国",
-    "year": "2009"
+    "year": "2009",
+    "poster_thumb": "/posters/thumb/229.webp"
   },
   {
     "day_of_year": 230,
@@ -3451,7 +3680,8 @@
     "poster_local": "/posters/230.jpg",
     "director": "迈克尔·莱德福",
     "country": "美国 / 意大利 / 卢森堡 / 英国",
-    "year": "2004"
+    "year": "2004",
+    "poster_thumb": "/posters/thumb/230.webp"
   },
   {
     "day_of_year": 231,
@@ -3466,7 +3696,8 @@
     "poster_local": "/posters/231.jpg",
     "director": "瞿友宁",
     "country": "中国台湾",
-    "year": "2011"
+    "year": "2011",
+    "poster_thumb": "/posters/thumb/231.webp"
   },
   {
     "day_of_year": 232,
@@ -3481,7 +3712,8 @@
     "poster_local": "/posters/232.jpg",
     "director": "萨维里奥·科斯坦佐 / 阿莉切·罗尔瓦赫尔",
     "country": "意大利 / 美国",
-    "year": "2020"
+    "year": "2020",
+    "poster_thumb": "/posters/thumb/232.webp"
   },
   {
     "day_of_year": 233,
@@ -3496,7 +3728,8 @@
     "poster_local": "/posters/233.jpg",
     "director": "乔尔·科恩 / 伊桑·科恩",
     "country": "美国 / 英国",
-    "year": "1991"
+    "year": "1991",
+    "poster_thumb": "/posters/thumb/233.webp"
   },
   {
     "day_of_year": 234,
@@ -3511,7 +3744,8 @@
     "poster_local": "/posters/234.jpg",
     "director": "韦斯顿·拉祖利",
     "country": "美国 / 法国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/234.webp"
   },
   {
     "day_of_year": 235,
@@ -3528,7 +3762,8 @@
     "poster_source": "tmdb",
     "director": "张艺谋",
     "country": "中国大陆 / 中国香港",
-    "year": "1992"
+    "year": "1992",
+    "poster_thumb": "/posters/thumb/235.webp"
   },
   {
     "day_of_year": 236,
@@ -3543,7 +3778,8 @@
     "poster_local": "/posters/236.jpg",
     "director": "迪恩·戴布洛伊",
     "country": "美国",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/236.webp"
   },
   {
     "day_of_year": 237,
@@ -3558,7 +3794,8 @@
     "poster_local": "/posters/237.jpg",
     "director": "高里·辛蒂",
     "country": "印度",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/237.webp"
   },
   {
     "day_of_year": 238,
@@ -3573,7 +3810,8 @@
     "poster_local": "/posters/238.jpg",
     "director": "安德烈·塔可夫斯基",
     "country": "苏联",
-    "year": "1966"
+    "year": "1966",
+    "poster_thumb": "/posters/thumb/238.webp"
   },
   {
     "day_of_year": 239,
@@ -3588,7 +3826,8 @@
     "poster_local": "/posters/239.jpg",
     "director": "金熙元",
     "country": "韩国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/239.webp"
   },
   {
     "day_of_year": 240,
@@ -3603,7 +3842,8 @@
     "poster_local": "/posters/240.jpg",
     "director": "朗·霍华德",
     "country": "美国 / 意大利",
-    "year": "2009"
+    "year": "2009",
+    "poster_thumb": "/posters/thumb/240.webp"
   },
   {
     "day_of_year": 241,
@@ -3618,7 +3858,8 @@
     "poster_local": "/posters/241.jpg",
     "director": "文斯·吉利根",
     "country": "美国",
-    "year": "2019"
+    "year": "2019",
+    "poster_thumb": "/posters/thumb/241.webp"
   },
   {
     "day_of_year": 242,
@@ -3633,7 +3874,8 @@
     "poster_local": "/posters/242.jpg",
     "director": "亚历杭德罗·阿梅纳瓦尔",
     "country": "西班牙 / 马耳他 / 保加利亚",
-    "year": "2009"
+    "year": "2009",
+    "poster_thumb": "/posters/thumb/242.webp"
   },
   {
     "day_of_year": 243,
@@ -3648,7 +3890,8 @@
     "poster_local": "/posters/243.jpg",
     "director": "伊藤诗织",
     "country": "日本 / 美国 / 英国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/243.webp"
   },
   {
     "day_of_year": 244,
@@ -3663,7 +3906,8 @@
     "poster_local": "/posters/244.jpg",
     "director": "李·昂克里奇 / 阿德里安·莫利纳",
     "country": "美国",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/244.webp"
   },
   {
     "day_of_year": 245,
@@ -3678,7 +3922,8 @@
     "poster_local": "/posters/245.jpg",
     "director": "利蒂希亚·多施",
     "country": "瑞士 / 法国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/245.webp"
   },
   {
     "day_of_year": 246,
@@ -3693,7 +3938,8 @@
     "poster_local": "/posters/246.jpg",
     "director": "布莱恩·柯克 / 安东尼·菲利普森 / 保罗·威尔姆斯赫斯特 / 阿努·梅农",
     "country": "英国 / 美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/246.webp"
   },
   {
     "day_of_year": 247,
@@ -3708,7 +3954,8 @@
     "poster_local": "/posters/247.jpg",
     "director": "Gary Fleder",
     "country": "美国",
-    "year": "2003"
+    "year": "2003",
+    "poster_thumb": "/posters/thumb/247.webp"
   },
   {
     "day_of_year": 248,
@@ -3723,7 +3970,8 @@
     "poster_local": "/posters/248.jpg",
     "director": "西罗·格拉",
     "country": "哥伦比亚 / 委内瑞拉 / 阿根廷",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/248.webp"
   },
   {
     "day_of_year": 249,
@@ -3738,7 +3986,8 @@
     "poster_local": "/posters/249.jpg",
     "director": "阿尔弗雷德·希区柯克",
     "country": "美国",
-    "year": "1946"
+    "year": "1946",
+    "poster_thumb": "/posters/thumb/249.webp"
   },
   {
     "day_of_year": 250,
@@ -3753,7 +4002,8 @@
     "poster_local": "/posters/250.jpg",
     "director": "吉奥里亚诺·蒙塔尔多",
     "country": "意大利 / 美国 / 日本 / 中国大陆",
-    "year": "1982"
+    "year": "1982",
+    "poster_thumb": "/posters/thumb/250.webp"
   },
   {
     "day_of_year": 251,
@@ -3768,7 +4018,8 @@
     "poster_local": "/posters/251.jpg",
     "director": "张艺谋",
     "country": "中国大陆",
-    "year": "1999"
+    "year": "1999",
+    "poster_thumb": "/posters/thumb/251.webp"
   },
   {
     "day_of_year": 252,
@@ -3783,7 +4034,8 @@
     "poster_local": "/posters/252.jpg",
     "director": "安德鲁·亚当森",
     "country": "美国 / 波兰 / 斯洛文尼亚 / 捷克",
-    "year": "2008"
+    "year": "2008",
+    "poster_thumb": "/posters/thumb/252.webp"
   },
   {
     "day_of_year": 253,
@@ -3798,7 +4050,8 @@
     "poster_local": "/posters/253.jpg",
     "director": "斯蒂芬·赫瑞克",
     "country": "美国",
-    "year": "1995"
+    "year": "1995",
+    "poster_thumb": "/posters/thumb/253.webp"
   },
   {
     "day_of_year": 254,
@@ -3813,7 +4066,8 @@
     "poster_local": "/posters/254.jpg",
     "director": "程小东",
     "country": "中国香港",
-    "year": "1992"
+    "year": "1992",
+    "poster_thumb": "/posters/thumb/254.webp"
   },
   {
     "day_of_year": 255,
@@ -3828,7 +4082,8 @@
     "poster_local": "/posters/255.jpg",
     "director": "于仁泰",
     "country": "中国香港",
-    "year": "1993"
+    "year": "1993",
+    "poster_thumb": "/posters/thumb/255.webp"
   },
   {
     "day_of_year": 256,
@@ -3843,7 +4098,8 @@
     "poster_local": "/posters/256.jpg",
     "director": "罗杰·唐纳森",
     "country": "新西兰 / 日本 / 美国",
-    "year": "2005"
+    "year": "2005",
+    "poster_thumb": "/posters/thumb/256.webp"
   },
   {
     "day_of_year": 257,
@@ -3858,7 +4114,8 @@
     "poster_local": "/posters/257.jpg",
     "director": "布拉迪·科贝特",
     "country": "美国 / 英国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/257.webp"
   },
   {
     "day_of_year": 258,
@@ -3873,7 +4130,8 @@
     "poster_local": "/posters/258.jpg",
     "director": "巴里·索南菲尔德",
     "country": "美国",
-    "year": "2012"
+    "year": "2012",
+    "poster_thumb": "/posters/thumb/258.webp"
   },
   {
     "day_of_year": 259,
@@ -3888,7 +4146,8 @@
     "poster_local": "/posters/259.jpg",
     "director": "杜琪峰",
     "country": "中国香港",
-    "year": "2005"
+    "year": "2005",
+    "poster_thumb": "/posters/thumb/259.webp"
   },
   {
     "day_of_year": 260,
@@ -3903,7 +4162,8 @@
     "poster_local": "/posters/260.jpg",
     "director": "算",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/260.webp"
   },
   {
     "day_of_year": 261,
@@ -3918,7 +4178,8 @@
     "poster_local": "/posters/261.jpg",
     "director": "金山",
     "country": "中国大陆",
-    "year": "1947"
+    "year": "1947",
+    "poster_thumb": "/posters/thumb/261.webp"
   },
   {
     "day_of_year": 262,
@@ -3933,7 +4194,8 @@
     "poster_local": "/posters/262.jpg",
     "director": "乔纳森·诺兰 / 强尼·坎贝尔 / 理查德·J·刘易斯 / 米歇尔·麦克拉伦 / 尼尔·马歇尔 / 文森佐·纳塔利 / 弗雷德里克·E·O·托耶 / 斯蒂芬·威廉姆斯",
     "country": "美国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/262.webp"
   },
   {
     "day_of_year": 263,
@@ -3948,7 +4210,8 @@
     "poster_local": "/posters/263.jpg",
     "director": "格奥尔格·玛斯",
     "country": "奥地利",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/263.webp"
   },
   {
     "day_of_year": 264,
@@ -3963,7 +4226,8 @@
     "poster_local": "/posters/264.jpg",
     "director": "梅特·阿尔贝蒂",
     "country": "智利",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/264.webp"
   },
   {
     "day_of_year": 265,
@@ -3978,7 +4242,8 @@
     "poster_local": "/posters/265.jpg",
     "director": "吴宇森",
     "country": "中国香港",
-    "year": "1992"
+    "year": "1992",
+    "poster_thumb": "/posters/thumb/265.webp"
   },
   {
     "day_of_year": 266,
@@ -3993,7 +4258,8 @@
     "poster_local": "/posters/266.jpg",
     "director": "奥里奥尔·保罗",
     "country": "西班牙",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/266.webp"
   },
   {
     "day_of_year": 267,
@@ -4010,7 +4276,8 @@
     "poster_source": "tmdb",
     "director": "乔纳森·诺兰 / 丹尼尔·格雷·朗诺 / 克莱尔·基尔纳 / 弗雷德里克·E·O·托耶 / 韦恩·叶",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/267.webp"
   },
   {
     "day_of_year": 268,
@@ -4025,7 +4292,8 @@
     "poster_local": "/posters/268.jpg",
     "director": "谢君伟 / 邹靖",
     "country": "中国大陆",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/268.webp"
   },
   {
     "day_of_year": 269,
@@ -4040,7 +4308,8 @@
     "poster_local": "/posters/269.jpg",
     "director": "本·理查森",
     "country": "美国",
-    "year": "2022"
+    "year": "2022",
+    "poster_thumb": "/posters/thumb/269.webp"
   },
   {
     "day_of_year": 270,
@@ -4055,7 +4324,8 @@
     "poster_local": "/posters/270.jpg",
     "director": "杰西·艾森伯格",
     "country": "美国 / 波兰",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/270.webp"
   },
   {
     "day_of_year": 271,
@@ -4070,7 +4340,8 @@
     "poster_local": "/posters/271.jpg",
     "director": "卡梅伦·凯恩斯 / 科林·凯恩斯",
     "country": "澳大利亚 / 美国 / 阿联酋",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/271.webp"
   },
   {
     "day_of_year": 272,
@@ -4085,7 +4356,8 @@
     "poster_local": "/posters/272.jpg",
     "director": "苏照彬",
     "country": "中国台湾",
-    "year": "2006"
+    "year": "2006",
+    "poster_thumb": "/posters/thumb/272.webp"
   },
   {
     "day_of_year": 273,
@@ -4100,7 +4372,8 @@
     "poster_local": "/posters/273.jpg",
     "director": "雷吉斯·罗因萨尔",
     "country": "法国 / 比利时",
-    "year": "2019"
+    "year": "2019",
+    "poster_thumb": "/posters/thumb/273.webp"
   },
   {
     "day_of_year": 274,
@@ -4115,7 +4388,8 @@
     "poster_local": "/posters/274.jpg",
     "director": "宋业明",
     "country": "中国大陆",
-    "year": "2019"
+    "year": "2019",
+    "poster_thumb": "/posters/thumb/274.webp"
   },
   {
     "day_of_year": 275,
@@ -4130,7 +4404,8 @@
     "poster_local": "/posters/275.jpg",
     "director": "方励",
     "country": "中国大陆",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/275.webp"
   },
   {
     "day_of_year": 276,
@@ -4145,7 +4420,8 @@
     "poster_local": "/posters/276.jpg",
     "director": "林诣彬",
     "country": "美国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/276.webp"
   },
   {
     "day_of_year": 277,
@@ -4160,7 +4436,8 @@
     "poster_local": "/posters/277.jpg",
     "director": "韦斯·安德森",
     "country": "德国 / 日本 / 美国 / 英国",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/277.webp"
   },
   {
     "day_of_year": 278,
@@ -4175,7 +4452,8 @@
     "poster_local": "/posters/278.jpg",
     "director": "金容华",
     "country": "韩国",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/278.webp"
   },
   {
     "day_of_year": 279,
@@ -4190,7 +4468,8 @@
     "poster_local": "/posters/279.jpg",
     "director": "杜琪峰",
     "country": "中国香港",
-    "year": "1993"
+    "year": "1993",
+    "poster_thumb": "/posters/thumb/279.webp"
   },
   {
     "day_of_year": 280,
@@ -4205,7 +4484,8 @@
     "poster_local": "/posters/280.jpg",
     "director": "阿尔瓦罗·加戈",
     "country": "西班牙",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/280.webp"
   },
   {
     "day_of_year": 281,
@@ -4220,7 +4500,8 @@
     "poster_local": "/posters/281.jpg",
     "director": "努里·比格·锡兰",
     "country": "土耳其 / 波黑",
-    "year": "2011"
+    "year": "2011",
+    "poster_thumb": "/posters/thumb/281.webp"
   },
   {
     "day_of_year": 282,
@@ -4235,7 +4516,8 @@
     "poster_local": "/posters/282.jpg",
     "director": "托德·菲利普斯",
     "country": "美国 / 加拿大",
-    "year": "2019"
+    "year": "2019",
+    "poster_thumb": "/posters/thumb/282.webp"
   },
   {
     "day_of_year": 283,
@@ -4250,7 +4532,8 @@
     "poster_local": "/posters/283.jpg",
     "director": "西蒙·赛伦·琼斯",
     "country": "美国 / 加拿大",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/283.webp"
   },
   {
     "day_of_year": 284,
@@ -4265,7 +4548,8 @@
     "poster_local": "/posters/284.jpg",
     "director": "恩斯特·刘别谦",
     "country": "美国",
-    "year": "1939"
+    "year": "1939",
+    "poster_thumb": "/posters/thumb/284.webp"
   },
   {
     "day_of_year": 285,
@@ -4280,7 +4564,8 @@
     "poster_local": "/posters/285.jpg",
     "director": "帕特·波尼蒂帕特",
     "country": "泰国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/285.webp"
   },
   {
     "day_of_year": 286,
@@ -4295,7 +4580,8 @@
     "poster_local": "/posters/286.jpg",
     "director": "严浩",
     "country": "中国大陆 / 美国",
-    "year": "2001"
+    "year": "2001",
+    "poster_thumb": "/posters/thumb/286.webp"
   },
   {
     "day_of_year": 287,
@@ -4310,7 +4596,8 @@
     "poster_local": "/posters/287.jpg",
     "director": "金基德",
     "country": "韩国",
-    "year": "2007"
+    "year": "2007",
+    "poster_thumb": "/posters/thumb/287.webp"
   },
   {
     "day_of_year": 288,
@@ -4325,7 +4612,8 @@
     "poster_local": "/posters/288.jpg",
     "director": "菲尔·亚伯拉罕 / 亚当·肯恩 / 史蒂芬·瑟吉克 / 法伦·布莱克本 / 肯·吉洛提 / 尤洛斯·林",
     "country": "美国",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/288.webp"
   },
   {
     "day_of_year": 289,
@@ -4340,7 +4628,8 @@
     "poster_local": "/posters/289.jpg",
     "director": "约翰·切斯特",
     "country": "美国",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/289.webp"
   },
   {
     "day_of_year": 290,
@@ -4355,7 +4644,8 @@
     "poster_local": "/posters/290.jpg",
     "director": "克里斯托弗·诺兰",
     "country": "英国 / 美国",
-    "year": "2006"
+    "year": "2006",
+    "poster_thumb": "/posters/thumb/290.webp"
   },
   {
     "day_of_year": 291,
@@ -4370,7 +4660,8 @@
     "poster_local": "/posters/291.jpg",
     "director": "英格玛·伯格曼",
     "country": "瑞典",
-    "year": "1966"
+    "year": "1966",
+    "poster_thumb": "/posters/thumb/291.webp"
   },
   {
     "day_of_year": 292,
@@ -4385,7 +4676,8 @@
     "poster_local": "/posters/292.jpg",
     "director": "维罗妮卡·托菲尔斯卡 / 约瑟芬·伯恩布什",
     "country": "英国 / 美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/292.webp"
   },
   {
     "day_of_year": 293,
@@ -4400,7 +4692,8 @@
     "poster_local": "/posters/293.jpg",
     "director": "加布里埃尔·阿克谢",
     "country": "丹麦",
-    "year": "1987"
+    "year": "1987",
+    "poster_thumb": "/posters/thumb/293.webp"
   },
   {
     "day_of_year": 294,
@@ -4415,7 +4708,8 @@
     "poster_local": "/posters/294.jpg",
     "director": "菲利普·巴兰蒂尼",
     "country": "英国",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/294.webp"
   },
   {
     "day_of_year": 295,
@@ -4430,7 +4724,8 @@
     "poster_local": "/posters/295.jpg",
     "director": "顾长卫",
     "country": "中国大陆 / 中国香港",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/295.webp"
   },
   {
     "day_of_year": 296,
@@ -4445,7 +4740,8 @@
     "poster_local": "/posters/296.jpg",
     "director": "彼得·杰克逊",
     "country": "美国 / 新西兰",
-    "year": "2014"
+    "year": "2014",
+    "poster_thumb": "/posters/thumb/296.webp"
   },
   {
     "day_of_year": 297,
@@ -4460,7 +4756,8 @@
     "poster_local": "/posters/297.jpg",
     "director": "迈克·乔吉 / 亚力克·博格",
     "country": "美国",
-    "year": "2014"
+    "year": "2014",
+    "poster_thumb": "/posters/thumb/297.webp"
   },
   {
     "day_of_year": 298,
@@ -4475,7 +4772,8 @@
     "poster_local": "/posters/298.jpg",
     "director": "斯科特·德瑞克森",
     "country": "美国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/298.webp"
   },
   {
     "day_of_year": 299,
@@ -4490,7 +4788,8 @@
     "poster_local": "/posters/299.jpg",
     "director": "拉杜·裘德",
     "country": "罗马尼亚 / 卢森堡 / 法国 / 克罗地亚",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/299.webp"
   },
   {
     "day_of_year": 300,
@@ -4505,7 +4804,8 @@
     "poster_local": "/posters/300.jpg",
     "director": "斯科特·德瑞克森",
     "country": "英国 / 美国",
-    "year": "2025"
+    "year": "2025",
+    "poster_thumb": "/posters/thumb/300.webp"
   },
   {
     "day_of_year": 301,
@@ -4520,7 +4820,8 @@
     "poster_local": "/posters/301.jpg",
     "director": "让-皮埃尔·达内 / 吕克·达内",
     "country": "比利时 / 法国",
-    "year": "2002"
+    "year": "2002",
+    "poster_thumb": "/posters/thumb/301.webp"
   },
   {
     "day_of_year": 302,
@@ -4535,7 +4836,8 @@
     "poster_local": "/posters/302.jpg",
     "director": "迈克尔·阿尔梅雷伊达",
     "country": "美国",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/302.webp"
   },
   {
     "day_of_year": 303,
@@ -4550,7 +4852,8 @@
     "poster_local": "/posters/303.jpg",
     "director": "宋海星",
     "country": "韩国",
-    "year": "2001"
+    "year": "2001",
+    "poster_thumb": "/posters/thumb/303.webp"
   },
   {
     "day_of_year": 304,
@@ -4565,7 +4868,8 @@
     "poster_local": "/posters/304.jpg",
     "director": "亨利·塞利克",
     "country": "美国",
-    "year": "2009"
+    "year": "2009",
+    "poster_thumb": "/posters/thumb/304.webp"
   },
   {
     "day_of_year": 305,
@@ -4580,7 +4884,8 @@
     "poster_local": "/posters/305.jpg",
     "director": "科拉莉·法尔雅",
     "country": "法国 / 英国 / 美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/305.webp"
   },
   {
     "day_of_year": 306,
@@ -4595,7 +4900,8 @@
     "poster_local": "/posters/306.jpg",
     "director": "尹丽川",
     "country": "中国大陆",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/306.webp"
   },
   {
     "day_of_year": 307,
@@ -4610,7 +4916,8 @@
     "poster_local": "/posters/307.jpg",
     "director": "扬·霍布雷克",
     "country": "斯洛伐克 / 捷克",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/307.webp"
   },
   {
     "day_of_year": 308,
@@ -4625,7 +4932,8 @@
     "poster_local": "/posters/308.jpg",
     "director": "片桐崇",
     "country": "日本",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/308.webp"
   },
   {
     "day_of_year": 309,
@@ -4640,7 +4948,8 @@
     "poster_local": "/posters/309.jpg",
     "director": "J·A·巴亚纳",
     "country": "西班牙 / 泰国 / 美国",
-    "year": "2012"
+    "year": "2012",
+    "poster_thumb": "/posters/thumb/309.webp"
   },
   {
     "day_of_year": 310,
@@ -4655,7 +4964,8 @@
     "poster_local": "/posters/310.jpg",
     "director": "帕斯卡尔·沙吕 / 阿诺德·德洛德 / 艾蒂安·马特拉 / 巴特·莫努里 / 克里斯特尔·阿布格拉尔",
     "country": "美国 / 法国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/310.webp"
   },
   {
     "day_of_year": 311,
@@ -4670,7 +4980,8 @@
     "poster_local": "/posters/311.jpg",
     "director": "彼特·纳斯",
     "country": "挪威 / 瑞典 / 法国",
-    "year": "2012"
+    "year": "2012",
+    "poster_thumb": "/posters/thumb/311.webp"
   },
   {
     "day_of_year": 312,
@@ -4685,7 +4996,8 @@
     "poster_local": "/posters/312.jpg",
     "director": "简君晋",
     "country": "中国香港",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/312.webp"
   },
   {
     "day_of_year": 313,
@@ -4700,7 +5012,8 @@
     "poster_local": "/posters/313.jpg",
     "director": "朗·霍华德",
     "country": "美国",
-    "year": "1991"
+    "year": "1991",
+    "poster_thumb": "/posters/thumb/313.webp"
   },
   {
     "day_of_year": 314,
@@ -4715,7 +5028,8 @@
     "poster_local": "/posters/314.jpg",
     "director": "彼得·孙",
     "country": "美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/314.webp"
   },
   {
     "day_of_year": 315,
@@ -4730,7 +5044,8 @@
     "poster_local": "/posters/315.jpg",
     "director": "伊桑·科恩 / 乔尔·科恩",
     "country": "美国",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/315.webp"
   },
   {
     "day_of_year": 316,
@@ -4745,7 +5060,8 @@
     "poster_local": "/posters/316.jpg",
     "director": "什里·那拉扬·辛",
     "country": "印度",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/316.webp"
   },
   {
     "day_of_year": 317,
@@ -4760,7 +5076,8 @@
     "poster_local": "/posters/317.jpg",
     "director": "罗伯特·泽米吉斯",
     "country": "美国",
-    "year": "1990"
+    "year": "1990",
+    "poster_thumb": "/posters/thumb/317.webp"
   },
   {
     "day_of_year": 318,
@@ -4775,7 +5092,8 @@
     "poster_local": "/posters/318.jpg",
     "director": "罗曼·波兰斯基",
     "country": "法国 / 波兰",
-    "year": "2013"
+    "year": "2013",
+    "poster_thumb": "/posters/thumb/318.webp"
   },
   {
     "day_of_year": 319,
@@ -4790,7 +5108,8 @@
     "poster_local": "/posters/319.jpg",
     "director": "赵圣熙",
     "country": "韩国",
-    "year": "2012"
+    "year": "2012",
+    "poster_thumb": "/posters/thumb/319.webp"
   },
   {
     "day_of_year": 320,
@@ -4805,7 +5124,8 @@
     "poster_local": "/posters/320.jpg",
     "director": "弗朗西斯·福特·科波拉",
     "country": "美国",
-    "year": "1979"
+    "year": "1979",
+    "poster_thumb": "/posters/thumb/320.webp"
   },
   {
     "day_of_year": 321,
@@ -4820,7 +5140,8 @@
     "poster_local": "/posters/321.jpg",
     "director": "丽萨·阿祖洛斯",
     "country": "法国",
-    "year": "2014"
+    "year": "2014",
+    "poster_thumb": "/posters/thumb/321.webp"
   },
   {
     "day_of_year": 322,
@@ -4835,7 +5156,8 @@
     "poster_local": "/posters/322.jpg",
     "director": "戴夫·穆林斯",
     "country": "美国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/322.webp"
   },
   {
     "day_of_year": 323,
@@ -4850,7 +5172,8 @@
     "poster_local": "/posters/323.jpg",
     "director": "玛加蕾特·冯·特罗塔",
     "country": "德国 / 卢森堡 / 法国",
-    "year": "2012"
+    "year": "2012",
+    "poster_thumb": "/posters/thumb/323.webp"
   },
   {
     "day_of_year": 324,
@@ -4865,7 +5188,8 @@
     "poster_local": "/posters/324.jpg",
     "director": "费德里科·费里尼",
     "country": "意大利",
-    "year": "1954"
+    "year": "1954",
+    "poster_thumb": "/posters/thumb/324.webp"
   },
   {
     "day_of_year": 325,
@@ -4880,7 +5204,8 @@
     "poster_local": "/posters/325.jpg",
     "director": "巴瑞·莱文森",
     "country": "美国",
-    "year": "1990"
+    "year": "1990",
+    "poster_thumb": "/posters/thumb/325.webp"
   },
   {
     "day_of_year": 326,
@@ -4895,7 +5220,8 @@
     "poster_local": "/posters/326.jpg",
     "director": "乔·戈恩",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/326.webp"
   },
   {
     "day_of_year": 327,
@@ -4910,7 +5236,8 @@
     "poster_local": "/posters/327.jpg",
     "director": "凯莉·莱卡特",
     "country": "美国",
-    "year": "2016"
+    "year": "2016",
+    "poster_thumb": "/posters/thumb/327.webp"
   },
   {
     "day_of_year": 328,
@@ -4925,7 +5252,8 @@
     "poster_local": "/posters/328.jpg",
     "director": "阮包",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/328.webp"
   },
   {
     "day_of_year": 329,
@@ -4940,7 +5268,8 @@
     "poster_local": "/posters/329.jpg",
     "director": "菲利帕·雷斯 / 若昂·米勒·盖拉",
     "country": "葡萄牙",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/329.webp"
   },
   {
     "day_of_year": 330,
@@ -4955,7 +5284,8 @@
     "poster_local": "/posters/330.jpg",
     "director": "尼尔·博格",
     "country": "美国",
-    "year": "2017"
+    "year": "2017",
+    "poster_thumb": "/posters/thumb/330.webp"
   },
   {
     "day_of_year": 331,
@@ -4970,7 +5300,8 @@
     "poster_local": "/posters/331.jpg",
     "director": "让-皮埃尔·梅尔维尔",
     "country": "法国 / 意大利",
-    "year": "1970"
+    "year": "1970",
+    "poster_thumb": "/posters/thumb/331.webp"
   },
   {
     "day_of_year": 332,
@@ -4985,7 +5316,8 @@
     "poster_local": "/posters/332.jpg",
     "director": "马可·贝洛基奥",
     "country": "意大利 / 法国 / 德国",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/332.webp"
   },
   {
     "day_of_year": 333,
@@ -5000,7 +5332,8 @@
     "poster_local": "/posters/333.jpg",
     "director": "汤姆·提克威",
     "country": "德国 / 意大利 / 美国 / 法国 / 英国",
-    "year": "2002"
+    "year": "2002",
+    "poster_thumb": "/posters/thumb/333.webp"
   },
   {
     "day_of_year": 334,
@@ -5015,7 +5348,8 @@
     "poster_local": "/posters/334.jpg",
     "director": "史蒂文·斯皮尔伯格",
     "country": "美国",
-    "year": "2001"
+    "year": "2001",
+    "poster_thumb": "/posters/thumb/334.webp"
   },
   {
     "day_of_year": 335,
@@ -5030,7 +5364,8 @@
     "poster_local": "/posters/335.jpg",
     "director": "佩德罗·阿莫多瓦",
     "country": "西班牙 / 法国",
-    "year": "1999"
+    "year": "1999",
+    "poster_thumb": "/posters/thumb/335.webp"
   },
   {
     "day_of_year": 336,
@@ -5045,7 +5380,8 @@
     "poster_local": "/posters/336.jpg",
     "director": "史蒂夫·麦奎因",
     "country": "美国 / 英国",
-    "year": "2013"
+    "year": "2013",
+    "poster_thumb": "/posters/thumb/336.webp"
   },
   {
     "day_of_year": 337,
@@ -5060,7 +5396,8 @@
     "poster_local": "/posters/337.jpg",
     "director": "约翰·G·艾维尔森",
     "country": "美国",
-    "year": "1976"
+    "year": "1976",
+    "poster_thumb": "/posters/thumb/337.webp"
   },
   {
     "day_of_year": 338,
@@ -5075,7 +5412,8 @@
     "poster_local": "/posters/338.jpg",
     "director": "费德里科·费里尼",
     "country": "意大利 / 法国",
-    "year": "1980"
+    "year": "1980",
+    "poster_thumb": "/posters/thumb/338.webp"
   },
   {
     "day_of_year": 339,
@@ -5090,7 +5428,8 @@
     "poster_local": "/posters/339.jpg",
     "director": "约什·蒂克尔 / 丽贝卡·哈勒尔·蒂克尔",
     "country": "美国",
-    "year": "2020"
+    "year": "2020",
+    "poster_thumb": "/posters/thumb/339.webp"
   },
   {
     "day_of_year": 340,
@@ -5105,7 +5444,8 @@
     "poster_local": "/posters/340.jpg",
     "director": "安东尼·明格拉",
     "country": "美国 / 英国",
-    "year": "1996"
+    "year": "1996",
+    "poster_thumb": "/posters/thumb/340.webp"
   },
   {
     "day_of_year": 341,
@@ -5120,7 +5460,8 @@
     "poster_local": "/posters/341.jpg",
     "director": "马克·赫尔佐格 / 洛朗·布泽罗",
     "country": "美国",
-    "year": "2024"
+    "year": "2024",
+    "poster_thumb": "/posters/thumb/341.webp"
   },
   {
     "day_of_year": 342,
@@ -5135,7 +5476,8 @@
     "poster_local": "/posters/342.jpg",
     "director": "热拉尔·乌里",
     "country": "法国 / 英国",
-    "year": "1966"
+    "year": "1966",
+    "poster_thumb": "/posters/thumb/342.webp"
   },
   {
     "day_of_year": 343,
@@ -5150,7 +5492,8 @@
     "poster_local": "/posters/343.jpg",
     "director": "凯文·麦克唐纳",
     "country": "美国 / 英国 / 法国",
-    "year": "2009"
+    "year": "2009",
+    "poster_thumb": "/posters/thumb/343.webp"
   },
   {
     "day_of_year": 344,
@@ -5165,7 +5508,8 @@
     "poster_local": "/posters/344.jpg",
     "director": "格里高利·霍布里特",
     "country": "美国",
-    "year": "2002"
+    "year": "2002",
+    "poster_thumb": "/posters/thumb/344.webp"
   },
   {
     "day_of_year": 345,
@@ -5180,7 +5524,8 @@
     "poster_local": "/posters/345.jpg",
     "director": "埃里克·瓦力 / 米歇尔·德巴",
     "country": "法国 / 瑞士 / 英国 / 尼泊尔",
-    "year": "1999"
+    "year": "1999",
+    "poster_thumb": "/posters/thumb/345.webp"
   },
   {
     "day_of_year": 346,
@@ -5195,7 +5540,8 @@
     "poster_local": "/posters/346.jpg",
     "director": "乔治·库克",
     "country": "美国",
-    "year": "1936"
+    "year": "1936",
+    "poster_thumb": "/posters/thumb/346.webp"
   },
   {
     "day_of_year": 347,
@@ -5210,7 +5556,8 @@
     "poster_local": "/posters/347.jpg",
     "director": "李雪",
     "country": "中国大陆",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/347.webp"
   },
   {
     "day_of_year": 348,
@@ -5225,7 +5572,8 @@
     "poster_local": "/posters/348.jpg",
     "director": "斯坦利·克雷默",
     "country": "美国",
-    "year": "1961"
+    "year": "1961",
+    "poster_thumb": "/posters/thumb/348.webp"
   },
   {
     "day_of_year": 349,
@@ -5240,7 +5588,8 @@
     "poster_local": "/posters/349.jpg",
     "director": "原惠一",
     "country": "日本",
-    "year": "2010"
+    "year": "2010",
+    "poster_thumb": "/posters/thumb/349.webp"
   },
   {
     "day_of_year": 350,
@@ -5255,7 +5604,8 @@
     "poster_local": "/posters/350.jpg",
     "director": "比利·怀尔德",
     "country": "美国",
-    "year": "1961"
+    "year": "1961",
+    "poster_thumb": "/posters/thumb/350.webp"
   },
   {
     "day_of_year": 351,
@@ -5270,7 +5620,8 @@
     "poster_local": "/posters/351.jpg",
     "director": "斯蒂芬·弗雷斯",
     "country": "英国",
-    "year": "2022"
+    "year": "2022",
+    "poster_thumb": "/posters/thumb/351.webp"
   },
   {
     "day_of_year": 352,
@@ -5285,7 +5636,8 @@
     "poster_local": "/posters/352.jpg",
     "director": "史蒂文·斯皮尔伯格",
     "country": "美国 / 英国",
-    "year": "1977"
+    "year": "1977",
+    "poster_thumb": "/posters/thumb/352.webp"
   },
   {
     "day_of_year": 353,
@@ -5300,7 +5652,8 @@
     "poster_local": "/posters/353.jpg",
     "director": "费德里科·费里尼",
     "country": "意大利 / 法国 / 西德",
-    "year": "1986"
+    "year": "1986",
+    "poster_thumb": "/posters/thumb/353.webp"
   },
   {
     "day_of_year": 354,
@@ -5315,7 +5668,8 @@
     "poster_local": "/posters/354.jpg",
     "director": "弗兰克·卡普拉",
     "country": "美国",
-    "year": "1946"
+    "year": "1946",
+    "poster_thumb": "/posters/thumb/354.webp"
   },
   {
     "day_of_year": 355,
@@ -5330,7 +5684,8 @@
     "poster_local": "/posters/355.jpg",
     "director": "哈维尔·费塞尔",
     "country": "西班牙",
-    "year": "2018"
+    "year": "2018",
+    "poster_thumb": "/posters/thumb/355.webp"
   },
   {
     "day_of_year": 356,
@@ -5345,7 +5700,8 @@
     "poster_local": "/posters/356.jpg",
     "director": "加芙列拉·考珀斯维特",
     "country": "美国",
-    "year": "2013"
+    "year": "2013",
+    "poster_thumb": "/posters/thumb/356.webp"
   },
   {
     "day_of_year": 357,
@@ -5360,7 +5716,8 @@
     "poster_local": "/posters/357.jpg",
     "director": "露西亚·安尼洛 / 戴思睿·阿卡万 / 保罗·当斯",
     "country": "美国",
-    "year": "2021"
+    "year": "2021",
+    "poster_thumb": "/posters/thumb/357.webp"
   },
   {
     "day_of_year": 358,
@@ -5375,7 +5732,8 @@
     "poster_local": "/posters/358.jpg",
     "director": "莎拉·史密斯 / 巴里·库克",
     "country": "英国 / 美国",
-    "year": "2011"
+    "year": "2011",
+    "poster_thumb": "/posters/thumb/358.webp"
   },
   {
     "day_of_year": 359,
@@ -5390,7 +5748,8 @@
     "poster_local": "/posters/359.jpg",
     "director": "乔·德特杜巴",
     "country": "美国",
-    "year": "1995"
+    "year": "1995",
+    "poster_thumb": "/posters/thumb/359.webp"
   },
   {
     "day_of_year": 360,
@@ -5405,7 +5764,8 @@
     "poster_local": "/posters/360.jpg",
     "director": "空音央",
     "country": "日本",
-    "year": "2023"
+    "year": "2023",
+    "poster_thumb": "/posters/thumb/360.webp"
   },
   {
     "day_of_year": 361,
@@ -5420,7 +5780,8 @@
     "poster_local": "/posters/361.jpg",
     "director": "马克·韦布",
     "country": "美国",
-    "year": "2014"
+    "year": "2014",
+    "poster_thumb": "/posters/thumb/361.webp"
   },
   {
     "day_of_year": 362,
@@ -5435,7 +5796,8 @@
     "poster_local": "/posters/362.jpg",
     "director": "西奥·安哲罗普洛斯",
     "country": "希腊 / 法国 / 意大利 / 德国 / 英国 / 南斯拉夫 / 罗马尼亚 / 阿尔巴尼亚 / 波黑",
-    "year": "1995"
+    "year": "1995",
+    "poster_thumb": "/posters/thumb/362.webp"
   },
   {
     "day_of_year": 363,
@@ -5450,7 +5812,8 @@
     "poster_local": "/posters/363.jpg",
     "director": "安德烈·塔可夫斯基",
     "country": "苏联",
-    "year": "1961"
+    "year": "1961",
+    "poster_thumb": "/posters/thumb/363.webp"
   },
   {
     "day_of_year": 364,
@@ -5465,7 +5828,8 @@
     "poster_local": "/posters/364.jpg",
     "director": "雷·沃纳尔",
     "country": "加拿大 / 澳大利亚 / 美国",
-    "year": "2020"
+    "year": "2020",
+    "poster_thumb": "/posters/thumb/364.webp"
   },
   {
     "day_of_year": 365,
@@ -5480,6 +5844,7 @@
     "poster_local": "/posters/365.jpg",
     "director": "陈思诚",
     "country": "中国大陆",
-    "year": "2015"
+    "year": "2015",
+    "poster_thumb": "/posters/thumb/365.webp"
   }
 ]
